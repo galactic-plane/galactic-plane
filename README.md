@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Daniel :telescope:
+
+![Daniel Penrod](https://raw.githubusercontent.com/infrared-stream/infrared-stream/main/github-profile-cover.png)
+
+## Connect:
+⚡ [Azure DevOps - Line-Ready Client (Node / Express)](https://dev.azure.com/dayafter/line-ready)
+⚡ [Azure DevOps - Line-Ready API (.NET Core / C#)](https://dev.azure.com/dayafter/line-ready-api)
+💬 [Linked In](https://www.linkedin.com/in/daniel-penrod-sr)
+
 
 <!--
 **infrared-stream/infrared-stream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
